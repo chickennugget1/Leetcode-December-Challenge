@@ -1,5 +1,5 @@
 # Leetcode-December-Challenge
-Solutions of Leetcode monthly challenge (December)
+Solutions of Leetcode monthly challenge (December) in C++
 
 ## Week 1
 1. Maximum depth of a binary tree

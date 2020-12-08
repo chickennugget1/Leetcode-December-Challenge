@@ -6,3 +6,6 @@ Solutions of Leetcode monthly challenge (December) in C++
 2. Linked List random node
 3. Increasing order search tree
 4. The kth factor of n
+5. Can Place Flowers
+6. Populating next right pointers in each node II
+7. Spiral Matrix II

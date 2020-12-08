@@ -9,3 +9,6 @@ Solutions of Leetcode monthly challenge (December) in C++
 5. Can Place Flowers
 6. Populating next right pointers in each node II
 7. Spiral Matrix II
+
+## Week 2
+8. Pairs of Songs With Total Durations Divisible by 60

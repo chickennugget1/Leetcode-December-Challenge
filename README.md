@@ -2,7 +2,7 @@
 Solutions of Leetcode monthly challenge (December) in C++
 
 ## Week 1
-1. Maximum depth of a binary tree
+1. [Maximum depth of a binary tree](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week-1/1Dec.cpp)
 2. Linked List random node
 3. Increasing order search tree
 4. The kth factor of n

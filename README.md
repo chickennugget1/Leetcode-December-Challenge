@@ -11,7 +11,7 @@ Solutions of [Leetcode December Challenge](https://leetcode.com/explore/challeng
 7. [Spiral Matrix II](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week-1/7Dec.cpp)
 
 ## Week 2
-8. Pairs of Songs With Total Durations Divisible by 60
+8. [Pairs of Songs With Total Durations Divisible by 60](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/8Dec.cpp)
 9. Binary Search Tree Iterator
 10. Valid Mountain Array
 11. Remove Duplicates from Sorted Array II

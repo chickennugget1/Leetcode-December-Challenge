@@ -12,3 +12,7 @@ Solutions of Leetcode monthly challenge (December) in C++
 
 ## Week 2
 8. Pairs of Songs With Total Durations Divisible by 60
+9. Binary Search Tree Iterator
+10. Valid Mountain Array
+11. Remove Duplicates from Sorted Array II
+12. Smallest subtree with all the deepest nodes

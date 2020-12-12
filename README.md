@@ -8,7 +8,7 @@ Solutions of Leetcode monthly challenge (December) in C++
 4. [The kth factor of n](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week-1/4Dec.cpp)
 5. [Can Place Flowers](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week-1/5Dec.cpp)
 6. [Populating next right pointers in each node II](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week-1/6Dec.cpp)
-7. Spiral Matrix II
+7. [Spiral Matrix II](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week-1/Spiral_Matrix_II.cpp)
 
 ## Week 2
 8. Pairs of Songs With Total Durations Divisible by 60

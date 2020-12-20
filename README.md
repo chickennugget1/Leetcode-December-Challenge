@@ -14,10 +14,10 @@ Solutions of [Leetcode December Challenge](https://leetcode.com/explore/challeng
 8. [Pairs of Songs With Total Durations Divisible by 60](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/8Dec.cpp)
 9. [Binary Search Tree Iterator](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/9Dec.cpp)
 10. [Valid Mountain Array](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/10Dec.cpp)
-11. Remove Duplicates from Sorted Array II
-12. Smallest subtree with all the deepest nodes
-13. Burst Balloons
-14. Palindrome partitioning
+11. [Remove Duplicates from Sorted Array II](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/11Dec.cpp)
+12. [Smallest subtree with all the deepest nodes](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/12Dec.cpp)
+13. [Burst Balloons](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/13Dec.cpp)
+14. [Palindrome partitioning](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/14Dec.cpp)
 
 ## Week 3
 15. Squares of a sorted array

@@ -16,3 +16,14 @@ Solutions of [Leetcode December Challenge](https://leetcode.com/explore/challeng
 10. [Valid Mountain Array](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/10Dec.cpp)
 11. Remove Duplicates from Sorted Array II
 12. Smallest subtree with all the deepest nodes
+13. Burst Balloons
+14. Palindrome partitioning
+
+## Week 3
+15. Squares of a sorted array
+16. Validate Binary Search Tree
+17. 4Sum II
+18. Increasing triplet suubsequence
+19. Cherry Pickup II
+20. Decoded string at index
+

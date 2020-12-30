@@ -26,4 +26,19 @@ Solutions of [Leetcode December Challenge](https://leetcode.com/explore/challeng
 18. Increasing triplet suubsequence
 19. Cherry Pickup II
 20. Decoded string at index
+21. Smallest Range II
+
+## Week 4
+22. Balanced Binary Tree
+23. Next Greater Element III
+24. Swap Nodes in Pairs
+25. Diagonal Traverse
+26. Decode Ways
+27. Jump Game IV
+28. Reach a Number
+
+## Week 5
+29. Pseudo-Palindromic Paths in a Binary Tree
+30. 
+31. 
 

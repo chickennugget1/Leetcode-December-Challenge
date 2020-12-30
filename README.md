@@ -20,7 +20,7 @@ Solutions of [Leetcode December Challenge](https://leetcode.com/explore/challeng
 14. [Palindrome partitioning]
 
 ## Week 3
-15. Squares of a sorted array
+15. [Squares of a sorted array](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%203/15Dec.cpp)
 16. Validate Binary Search Tree
 17. 4Sum II
 18. Increasing triplet suubsequence

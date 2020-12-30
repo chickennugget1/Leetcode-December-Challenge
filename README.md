@@ -16,8 +16,8 @@ Solutions of [Leetcode December Challenge](https://leetcode.com/explore/challeng
 10. [Valid Mountain Array](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/10Dec.cpp)
 11. [Remove Duplicates from Sorted Array II](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/11Dec.cpp)
 12. [Smallest subtree with all the deepest nodes](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/12Dec.cpp)
-13. [Burst Balloons](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/13Dec.cpp)
-14. [Palindrome partitioning](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%202/14Dec.cpp)
+13. [Burst Balloons]
+14. [Palindrome partitioning]
 
 ## Week 3
 15. Squares of a sorted array

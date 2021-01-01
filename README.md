@@ -21,7 +21,7 @@ Solutions of [Leetcode December Challenge](https://leetcode.com/explore/challeng
 
 ## Week 3
 15. [Squares of a sorted array](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%203/15Dec.cpp)
-16. Validate Binary Search Tree
+16. [Validate Binary Search Tree](https://github.com/chickennugget1/Leetcode-December-Challenge/blob/main/Week%203/16Dec.cpp)
 17. 4Sum II
 18. Increasing triplet suubsequence
 19. Cherry Pickup II
